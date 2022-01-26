@@ -1,5 +1,5 @@
 ## About
-A quick project, passing icon as props in React, TS, MUI (Material UI)
+A quick project, to discover how MUI breakpoints work.
 
 ## Prerequisites
 To run in Windows 10 you need to install some tools, like: NodeJS, Chocolatey and more. [here](https://github.com/MestreALMO/React-Requires-To-Run-Windows-) is how to install all of it.
